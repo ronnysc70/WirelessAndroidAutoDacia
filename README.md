@@ -7,8 +7,14 @@ Damit kann eine wireless Verbindung zum MediaNav von Dacia für Android Auto auf
   <table>
     <tr>
       <td>- Raspberry PI Zero 2W</td><td></td>
+    </tr>
+    <tr>
       <td>- SD Karte 32GB</td><td></td>
+    </tr>
+    <tr>
       <td>- USB Kabel Micro-USB</td><td></td>
+    </tr>
+    <tr>
       <td>- Gehäuse</td><td></td>
     </tr>
   </table>
