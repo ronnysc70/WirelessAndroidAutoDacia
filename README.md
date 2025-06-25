@@ -21,7 +21,7 @@ Damit kann eine wireless Verbindung zum MediaNav von Dacia für Android Auto auf
 </ul>
 <ul>
   <li>Ersteinrichtung:</li>
-  <ul>1. Pi mit dem USB Anschluss des MediNav verbinden und warten bis dei grüne LED nicht mehr flackert</ul>
+  <ul>1. Pi mit dem USB Anschluss des MediNav verbinden und warten bis die grüne LED nicht mehr flackert</ul>
   <ul>2. das Android Gerät mit dem Bluetooth vom Pi als ""AAWireless" koppeln</ul>
   <ul>3. nach erfolgreicher Kopplung stellt der Pi automatisch ein WLAN zur Verfügung wo sich das Android Gerät automatisch einloggt</ul>
   <ul>4. es wird eine automatische Verbindung Andoid Auto zum MediaNav hergestellt</ul>
